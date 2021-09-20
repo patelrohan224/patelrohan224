@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rohan Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Rohan Patel</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelrohan224&label=Profile%20views&color=0e75b6&style=flat" alt="patelrohan224" /> </p>
 
