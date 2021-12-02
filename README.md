@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Uditanshu+Kumar....;Nice+to+meet+you!&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Patel....;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1>
 
@@ -55,10 +55,12 @@
 <h2 align="center"> ☕ Let's Connect ☕ </h2>
 
 <h5 align="center">
- <code>
-    <a href="https://www.linkedin.com/in/rohan-patel-18a7091ab/" title="LinkedIn Profile"><img width="22" src="https://github.com/udit22022000/udit22022000/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  
+ <code >
+    <a  href="https://www.linkedin.com/in/rohan-patel-18a7091ab/" title="LinkedIn Profile"><img width="22" src="https://github.com/udit22022000/udit22022000/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  
   <code><a href="https://twitter.com/rohanpatel224?t=ecNeeiKVsaimYC-qtZKcVA&s=09" title="Twitter Profile"><img width="22" src="https://github.com/udit22022000/udit22022000/blob/master/images/twitter.png"> Twitter</a></code>
 
   <code><a href="https://www.facebook.com/profile.php?id=100006801992128" title="Facebook Profile"><img width="22" src="https://github.com/udit22022000/udit22022000/blob/master/images/fb.png"> Facebook</a></code>
-
+  
 </h5>
