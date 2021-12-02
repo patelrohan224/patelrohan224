@@ -38,7 +38,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div >
+  <div align=center >
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=patelrohan224&show_icons=true&locale=en" alt="patelrohan224" />
     </a>
