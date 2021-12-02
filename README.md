@@ -46,7 +46,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelrohan224&" alt="patelrohan224" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br><br>
+  <br><br><br>
 
 </p>
 
