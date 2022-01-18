@@ -5,6 +5,7 @@
 </h1>
 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelrohan224&label=Profile%20views&color=0e75b6&style=flat" alt="patelrohan224" /> </p>
 <hr>
 <img align="right" alt="GIF" src="https://github.com/udit22022000/udit22022000/blob/master/code.gif?raw=true" width="500" height="320" />
   
