@@ -69,34 +69,6 @@ I am a passionate **Software Development Engineer** specializing in **Full Stack
 
 ---
 
-## 📂 Projects
-
-### **1. Nobroker’s Home Interiors & Home Renovation**
-**Tech Stack:** React.js, Next.js, Tailwind, SSR, Redux Saga, GA, GTM, Sentry.io, Comet Chat
-- Designed and implemented responsive cross-platform web interfaces with server-side rendering.
-- Boosted page indexing and user engagement with advanced SEO strategies.
-- Integrated chat features using Comet Chat for seamless user communication.
-- Developed OTP authentication with APIs, cookies, and session management.
-
-### **2. Nobroker’s Home Loan Page**
-**Tech Stack:** React.js, Tailwind, SSR, Redux Saga, GA, GTM, Sentry.io, Comet Chat
-- Developed core functionality and responsive designs to enhance customer satisfaction.
-- Integrated CIBIL API for fetching credit reports.
-- Built SEO-optimized pages to increase online visibility and engagement.
-
-### **3. LMS Dashboard | CRM | Nobroker**
-**Tech Stack:** React.js, Context API, SCSS, React Hooks, Sentry.io, Comet Chat
-- Owned end-to-end responsibilities, including system implementation and core functionality.
-- Developed dynamic modules for role management, email templates, and CRM workflows.
-- Integrated chat services with features like group chat, notifications, and escalations.
-
-### **4. JavaScript Compiler | Code Editor**
-**Tech Stack:** React.js, Next.js, Tailwind CSS, Custom JavaScript Engine
-- Built an online JavaScript editor with syntax highlighting and error visualization.
-- Visualized Abstract Syntax Trees and memory allocation in stack and heap memory.
-
----
-
 ## 🎓 Education
 
 ### **Bachelor of Engineering in Computer Engineering**  
@@ -120,5 +92,5 @@ Feel free to reach out for collaboration or exciting opportunities!
 📧 rohanpateloff@gmail.com  
 🔗 [GitHub](https://github.com/patelrohan224)  
 🔗 [Portfolio](https://rohanpatel.vercel.app)  
-🔗 [LinkedIn](https://www.linkedin.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/rohan-patel-dev/)
 
