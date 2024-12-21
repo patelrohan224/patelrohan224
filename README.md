@@ -7,7 +7,7 @@
 📞 **Phone:** +91 8200166768  
 🔗 **GitHub:** [patelrohan224](https://github.com/patelrohan224)  
 🔗 **Portfolio:** [rohanpatel.vercel.app](https://rohanpatel.vercel.app)  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/rohan-patel-dev](https://www.linkedin.com/in/rohan-patel-dev/)
 
 ---
 
